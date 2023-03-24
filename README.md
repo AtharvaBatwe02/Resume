@@ -1,2 +1,1 @@
-# Resume
-AtharvaBatwe - Personal Resume
+
